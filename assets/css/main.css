@@ -2198,9 +2198,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			/* height : 20em with banner */
 		.image.main {
 			display: block;
-			height: 20em;
+			height: 0em;
 			border-radius: 0;
 		}
 
